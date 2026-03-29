@@ -33,3 +33,5 @@ HTTPS provides **Encryption, Integrity, and Authentication**. Without the "S", d
 * Successfully captured the flag: `THM{HTTP_REQUEST_MASTER}`
 * Achieved 100% completion of the "HTTP in Detail" module.
 
+📫 **Connect with me:** [(https://www.linkedin.com/in/terna-angwe/)]
+
